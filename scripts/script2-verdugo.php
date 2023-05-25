@@ -2,7 +2,7 @@
 /**
  * En este script se implementa la clase Empleado y se prueba creando un objeto Empleado
  * @author Antonio Ramón Verdugo Garcia <antonioverdugogarcia@gmail.com>
- * @version 1.0.1
+ * @version 1.2.0
  */
 
 /**
