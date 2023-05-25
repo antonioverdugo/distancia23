@@ -2,7 +2,7 @@
 /**
  * Este script simula el lanzamiento de un dado e imprime el número por pantalla además de la hora que se tiro el dado
  * @autor Antonio Ramón Verdugo García <antonioverdugogarcia@gmail.com>
- * @version 1.0.1
+ * @version 1.1.1
  * @license /url/a/ GPL
  */
 //inicializa con un número aleatorio entero dentro del rango
